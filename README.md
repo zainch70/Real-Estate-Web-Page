@@ -1,6 +1,4 @@
-Here's an updated description reflecting the features you mentioned:
-
-Real Estate Project using HTML, CSS, and PHP
+Real Estate Project using HTML, CSS, and PHP make sure you have a dashboard background video
 
 In this real estate project, I developed a dynamic website that allows users to browse, search, and manage property listings. The front end was built using HTML and CSS to create a user-friendly interface, while the backend was developed with PHP to handle data processing and interactions with a MySQL database.
 
